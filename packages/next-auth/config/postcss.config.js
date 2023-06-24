@@ -4,4 +4,4 @@ module.exports = {
     require('postcss-nested'),
     require('cssnano')({ preset: 'default' })
   ]
-}
+};
