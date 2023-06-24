@@ -99,3 +99,5 @@ packages/frameworks-sveltekit/vite.config.ts.timestamp-*
 # Adapters
 
 docs/docs/reference/adapter
+temp_auto_push.bat
+temp_interactive_push.bat
